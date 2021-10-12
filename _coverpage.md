@@ -1,6 +1,6 @@
 ![logo](/logo.png)
 
-# LyingOn <small>0.1.2</small>
+# LyingOn <small>0.1.3</small>
 
 > 一个简单易用的自动化测试框架
 
