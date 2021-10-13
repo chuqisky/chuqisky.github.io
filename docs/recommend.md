@@ -33,4 +33,4 @@
  * config.py：项目配置文件
  * run_suite.py：项目总启动文件，批量启动测试脚本  
  
- ![alt bug](http://localhost:3000/img/bug.gif)
+ ![alt bug](https://chuqisky.github.io/img/bug.gif)
