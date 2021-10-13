@@ -9,4 +9,4 @@
 - 规范的项目布局
 
 [GitHub](https://github.com/chuqisky/LyingOnFramework.git)
-[Get Started](http://localhost:3000/#/README)
+[Get Started](https://chuqisky.github.io/#/README)
